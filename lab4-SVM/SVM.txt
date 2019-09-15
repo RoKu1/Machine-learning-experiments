@@ -1,0 +1,27 @@
+25-02-2019
+study --> 1. Random Forest
+                2. Decision Trees
+                3. evaluating regression model performance
+                4. logistic regression
+
+SVM:
+-->  maximum margin hyper plane
+--> support vectors
+kernels -->
+            Linear: K(p,q) = (p,q)
+            Polynomial: K(p,q) = 
+            RBF(radial basis fun): K(p,q) = exp|| 
+Algorithm --
+   -import libs
+   -import dataset
+   -Split
+   -normlization
+   -fitting the svm
+   -predicting
+   -confusion matrix
+   -visualize
+confu 
+|                  |     pred no   |     pred yes|
+|---------------------------------------- |
+|actual no   |        TN        |        FP       |
+|actual yes  |        FN        |        TP       |

@@ -1,0 +1,11 @@
+Family of simple "probabilistic classifiers"
+-->based on bayes theorme
+Advs---> requires a small number of training data to estimate the params necessary for classiication
+BAyes Theorem -->
+	P(A|B) = [ P(B|A)*P(A) ] / P(B)
+P(A) ==> prior probablity
+P(B) ==> marginal likelihood
+P(B|A) ==> likelihood
+P(A|B) ==> posterior likelihood
+
+-->> its just the likelihood probabilty of the given data
