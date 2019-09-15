@@ -1,0 +1,26 @@
+1)Regression/Estimation
+  -Predicting continous values
+   SLR - 
+        predict score on one based on another
+        y  = a0 + a1*x
+        y -- dependent
+        x -- independent
+       a0 -- constant(bias)
+       a1 -- coefficiant(weight)
+      error  --  sum(actual value  - predicted value)'2
+2)Classification
+  -Predicting the item class or         
+    category of a case
+3)Clustering
+  -finding the structure of data; summarization
+4)Associations
+  -Associating the co-occuring events
+5)Anomoly detection
+  -Detecting frauds
+6)Sequence mining
+  -Predicting next events(Markov Model, HMM)
+7)Dimension Reduction
+  -Reduce the size of data(PCA,K-means)
+8)Recommendation systems
+  -Recomending the items
+

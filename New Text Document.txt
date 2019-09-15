@@ -1,0 +1,7 @@
+PCA
+ANN
+CNN
+RL
+Model Selection-->
+	SRM
+	Validation
