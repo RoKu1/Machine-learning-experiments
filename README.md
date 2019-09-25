@@ -11,3 +11,6 @@ List of Practicals:
 8. Design and develop a model for natural language processing
 9. Construct model using Artificial neural network
 10. Build model using Principal Component Analysis
+""""
+Certain New Updates/(labs) are posted 
+""""
